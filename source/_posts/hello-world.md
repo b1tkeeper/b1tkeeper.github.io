@@ -36,3 +36,10 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+
+
+```python3
+for i in range(1, 2222):
+    print("abcd")
+```
